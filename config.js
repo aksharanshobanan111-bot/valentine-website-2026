@@ -17,7 +17,6 @@ const CONFIG = {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
-![image alt](https://github.com/aksharanshobanan111-bot/valentine-website-2026/blob/f73ca33bc2f906b29c5a2f841835d3f8d6ac6a5d/IMG_2375.HEIC)
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
