@@ -92,7 +92,8 @@ pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 // Floating Background Elements
 floatingEmojis: {
     hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    bears: ['🧸', '🐻']
+![image alt](https://github.com/aksharanshobanan111-bot/valentine-website-2026/blob/f73ca33bc2f906b29c5a2f841835d3f8d6ac6a5d/IMG_2375.HEIC)                      // Bear emojis in background
 }
 
 // Questions and Buttons
