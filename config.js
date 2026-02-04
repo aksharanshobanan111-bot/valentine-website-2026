@@ -50,6 +50,7 @@ const CONFIG = {
     celebration: {
         title: "OMG REALLY! I'm the luckiest person in the world! ❤️🎉💝🥰💓😍",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
+        image: https://github.com/aksharanshobanan111-bot/valentine-website-2026/blob/30cfa4501d051175038126d7f3a397bb75717028/IMG_2375.HEIC
         emojis: "😘💖😍💝💋❤️💕"  // These will bounce around
     },
 
