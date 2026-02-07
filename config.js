@@ -50,8 +50,10 @@ const CONFIG = {
     celebration: {
         title: "OMG REALLY! I'm the luckiest person in the world! ❤️🎉💝🥰💓😍",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
-        const CONFIG = {https://github.com/aksharanshobanan111-bot/valentine-website-2026/blob/25d2cac017e35c3f09c9bf30e25d59fe6561b751/IMG_2375.jpg
-  heroImage: "assets/images/https://github.com/aksharanshobanan111-bot/valentine-website-2026/blob/25d2cac017e35c3f09c9bf30e25d59fe6561b751/IMG_2375.jpg"
+    const CONFIG = {
+  heroImage: "https://raw.githubusercontent.com/aksharanshobanan111-bot/valentine-website-2026/25d2cac017e35c3f09c9bf30e25d59fe6561b751/IMG_2375.jpg"
+};
+
 };
 
         emojis: "😘💖😍💝💋❤️💕"  // These will bounce around
